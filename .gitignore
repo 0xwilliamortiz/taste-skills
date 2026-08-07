@@ -1,0 +1,9 @@
+node_modules/
+*.exe
+*.dll
+companion/*.zip
+companion/**/*.exe
+companion/**/*.dll
+.DS_Store
+Thumbs.db
+.agents/

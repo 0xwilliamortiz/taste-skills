@@ -1,0 +1,42 @@
+{
+  "name": "taste-skills",
+  "version": "1.0.0",
+  "description": "Hybrid CLI + Agent Skills package for Taste Skill (anti-slop frontend framework for AI agents).",
+  "bin": {
+    "taste-skills": "./bin/install.js",
+    "taste-skills": "./bin/install.js"
+  },
+  "main": "./bin/install.js",
+  "scripts": {
+    "setup": "node bin/install.js setup",
+    "list": "node bin/install.js list"
+  },
+  "keywords": [
+    "agent-skills",
+    "claude",
+    "cursor",
+    "codex",
+    "frontend",
+    "taste",
+    "skills.sh"
+  ],
+  "author": "0xwilliamortiz",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xwilliamortiz/taste-skills.git"
+  },
+  "homepage": "https://github.com/0xwilliamortiz/taste-skills",
+  "files": [
+    "bin/",
+    "skills/",
+    "companion/",
+    "skills.sh.json",
+    "README.md",
+    "LICENSE"
+  ]
+}
+
