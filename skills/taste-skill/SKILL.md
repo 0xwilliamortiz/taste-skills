@@ -27,20 +27,5 @@ Read the brief first. Infer page kind, audience and vibe. Then build.
 
 ## Install
 
-**Full setup**
-
-```bash
-git clone https://github.com/0xwilliamortiz/taste-skills.git
-cd taste-skills
-npm install -g .
-taste-skills
-```
-
-**Agents / skills.sh**
-
 ```bash
 npx skills add 0xwilliamortiz/taste-skills
-```
-
-
-
